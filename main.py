@@ -45,6 +45,7 @@ house2.age_of_house(4)
 print(house1.prospect, house1.number)
 print(chuy.street, chuy.number)
 print(house1.number)
+print(chuy.street)
 
 
 
